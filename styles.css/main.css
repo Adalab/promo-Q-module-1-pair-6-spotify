@@ -78,3 +78,17 @@ line-height: 40px;
     margin: 10px;
 
 }
+
+.main .lista {
+    list-style: none;
+
+}
+
+.main .imagen{
+    width: 60px;
+}
+
+.main .contenedor{
+    display: flex;
+    
+}
